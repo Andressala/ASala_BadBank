@@ -1,2 +1,2 @@
-# ASala_BadBank
-Andres Sala BadBank exercise
+# badbank
+Bad Bank HW

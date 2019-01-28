@@ -1,0 +1,27 @@
+{
+  "accounts": [
+    {
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "balance": 0,
+      "password": "test1",
+      "transactions": [
+        {
+          "action": "Create",
+          "amount": 0,
+          "timestamp": "2019-01-27T23:01:49.388Z"
+        },
+        {
+          "action": "Deposit",
+          "amount": 10000,
+          "timestamp": "2019-01-27T23:02:30.726Z"
+        },
+        {
+          "action": "Withdraw",
+          "amount": 10000,
+          "timestamp": "2019-01-27T23:12:51.629Z"
+        }
+      ]
+    }
+  ]
+}
